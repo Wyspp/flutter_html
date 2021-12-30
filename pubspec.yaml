@@ -23,7 +23,7 @@ dependencies:
       url: https://github.com/wyspp/plugins
       path: packages/video_player/video_player
   chewie: 
-    git: https://github.com/wyspp/chewie 
+    git: https://github.com/Wyspp/chewie.git 
 
   # Plugin for rendering the <iframe> tag.
   webview_flutter: '>=2.0.4 <4.0.0'
