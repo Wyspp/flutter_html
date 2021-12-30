@@ -20,7 +20,7 @@ dependencies:
   # Plugins for rendering the <video> tag.
   video_player:
     git:
-      url: https://github.com/wyspp/plugins
+      url: https://github.com/wyspp/plugins.git
       path: packages/video_player/video_player
   chewie: 
     git: https://github.com/Wyspp/chewie.git 
